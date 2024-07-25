@@ -1,4 +1,4 @@
-# 🏡 AI 공인중개사와 함께 집을 구해보는 서비스: HouseAdvisor
+# 📌 AI 공인중개사와 함께 집을 구해보는 서비스: HouseAdvisor
 
 ## Table of Contents
 * [Medium](#-medium)
