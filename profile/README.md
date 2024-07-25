@@ -16,7 +16,7 @@
 ## 📹 Demo Video
 
 ## 🐋 System Architechture
-![Team-N 시스템 아키텍처](https://github.com/user-attachments/assets/d03a228c-21e1-436f-b9ff-fc147ae48472)
+![Team-N 시스템 아키텍처](https://github.com/user-attachments/assets/4951fa02-57f0-4200-b216-1e42ee3c2528)
 ## 💡 Tech Stack
 |Area|Tech Stack|
 |:---:|:---:|
