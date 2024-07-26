@@ -33,6 +33,14 @@
 ## 💻 Monitoring
 
 ## 🚀 How to start
+#### 준비물(비용이 발생할 수 있음)
+* [Kakao API key 발급받기](https://developers.kakao.com/)
+* [OpenAI API key 발급받기](https://platform.openai.com/)
+* [AWS S3 Bucket 만들기](https://aws.amazon.com/ko/s3/getting-started/)
+#### 1. Clone The Repository
+```
+https://github.com/2024-Summer-Bootcamp-Team-N/Backend.git
+```
 
 ## 👥 Team Members
 |Name|최수하|김민기|권혁진|김종완|김민균|문재준|송수민|
