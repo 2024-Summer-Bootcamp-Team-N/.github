@@ -39,7 +39,16 @@
 * [AWS S3 Bucket 만들기](https://aws.amazon.com/ko/s3/getting-started/)
 #### 1. Clone The Repository
 ```
-https://github.com/2024-Summer-Bootcamp-Team-N/Backend.git
+
+```
+#### 2. ENV Setting
+* /.env (docker-compose.yml 파일과 같은 디렉토리에 생성)
+```
+
+```
+#### 3. Run Docker
+```
+docker compose up --build
 ```
 
 ## 👥 Team Members
