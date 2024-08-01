@@ -1,4 +1,4 @@
-# 📌 AI 공인중개사와 함께 집을 구하는 서비스: HouseAdvisor
+# 📌 AI 공인중개사와 함께하는 내 집 찾기 서비스: HouseAdvisor
 ![메인페이지](https://github.com/user-attachments/assets/6152a9cb-8dbf-41db-afa0-bbc561dee7e7)
 <div align="center">
   
