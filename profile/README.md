@@ -39,7 +39,7 @@
 ![계약서페이지](https://github.com/user-attachments/assets/110ea3bf-a96d-4310-8c1e-892ea192c482)
 
 ## 🐋 System Architechture
-![Team-N 시스템 아키텍처](https://github.com/user-attachments/assets/43394f27-c35e-48c5-9297-8faf354b9eb8)
+![Team-N 시스템 아키텍처](https://github.com/user-attachments/assets/f2cb22a8-dc3e-4e78-8b9e-b2bf9fab72e5)
 
 ## 💡 Tech Stack
 |Area|Tech Stack|
