@@ -58,25 +58,8 @@
 ![API 명세서](https://github.com/user-attachments/assets/02a94f7a-1b24-4160-8aa6-7d96c48bd20f)
 
 ## 💻 Monitoring
-
-## 🚀 How to start
-#### 준비물(비용이 발생할 수 있음)
-* [Kakao API key 발급받기](https://developers.kakao.com/)
-* [OpenAI API key 발급받기](https://platform.openai.com/)
-* [AWS S3 Bucket 만들기](https://aws.amazon.com/ko/s3/getting-started/)
-#### 1. Clone The Repository
-```
-
-```
-#### 2. ENV Setting
-* /.env (docker-compose.yml 파일과 같은 디렉토리에 생성)
-```
-
-```
-#### 3. Run Docker
-```
-docker compose up --build
-```
+### Prometheus & Grafana
+![모니터링](https://github.com/user-attachments/assets/da7a810d-bc00-4087-819c-8bffd672a8eb)
 
 ## 👥 Team Members
 |Name|최수하|김민기|권혁진|김종완|김민균|문재준|송수민|
